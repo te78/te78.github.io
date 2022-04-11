@@ -1,37 +1,224 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="zh-CN">
 
-You can use the [editor on GitHub](https://github.com/te78/te78.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+	<title>草料二维码</title>
+	<style type="text/css">
+		html {
+			color: #000;
+			background: #FFF
+		}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		body,
+		div,
+		dl,
+		dt,
+		dd,
+		ul,
+		ol,
+		li,
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6,
+		pre,
+		code,
+		form,
+		fieldset,
+		legend,
+		input,
+		textarea,
+		p,
+		blockquote,
+		th,
+		td {
+			margin: 0;
+			padding: 0
+		}
 
-### Markdown
+		table {
+			border-collapse: collapse;
+			border-spacing: 0
+		}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+		fieldset,
+		img {
+			border: 0
+		}
 
-```markdown
-Syntax highlighted code block
+		address,
+		caption,
+		cite,
+		code,
+		dfn,
+		em,
+		strong,
+		th,
+		var {
+			font-style: normal;
+			font-weight: normal
+		}
 
-# Header 1
-## Header 2
-### Header 3
+		ol,
+		ul {
+			list-style: none
+		}
 
-- Bulleted
-- List
+		caption,
+		th {
+			text-align: left
+		}
 
-1. Numbered
-2. List
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			font-size: 100%;
+			font-weight: normal
+		}
 
-**Bold** and _Italic_ and `Code` text
+		q:before,
+		q:after {
+			content: ''
+		}
 
-[Link](url) and ![Image](src)
-```
+		abbr,
+		acronym {
+			border: 0;
+			font-variant: normal
+		}
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+		sup {
+			vertical-align: text-top
+		}
 
-### Jekyll Themes
+		sub {
+			vertical-align: text-bottom
+		}
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/te78/te78.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+		input,
+		textarea,
+		select {
+			font-family: inherit;
+			font-size: inherit;
+			font-weight: inherit;
+			*font-size: 100%
+		}
 
-### Support or Contact
+		legend {
+			color: #000
+		}
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+		.wrapper .image img {
+			display: block;
+			margin: 0 auto;
+			max-width: 100%;
+		}
+
+		.wrapper h1 {
+			font-size: 20px;
+			font-weight: bold;
+			padding: 20px;
+			text-align: center;
+		}
+
+		.wrapper .content h1 {
+			padding: 0 0 10px 0;
+		}
+
+		.wrapper .content {
+			padding: 20px 15px;
+		}
+
+		.wrapper .content p {
+			margin: 0 0 15px;
+			line-height: 26px;
+		}
+
+		.wrapper .content img {
+			max-width: 100%;
+			height: auto;
+		}
+
+		.mod-link {
+			padding-top: 50px;
+			width: 100%;
+			line-height: 24px;
+			text-align: center;
+			font-size: 16px;
+			color: #333;
+		}
+
+		.mod-link p {
+			color: #999;
+		}
+
+		.mod-link .text {
+			padding: 10px;
+			margin: 10px 10px 40px;
+			line-height: 1.2;
+			color: #333;
+			word-wrap: break-word;
+			word-break: break-all;
+			text-align: center;
+			background: #f2f2f2;
+		}
+
+		.mod-link .safe {
+			margin-bottom: 8px;
+		}
+
+		.mod-link .text span {
+			overflow: hidden;
+			text-overflow: ellipsis;
+			display: -webkit-box;
+			-webkit-line-clamp: 3;
+			-webkit-box-orient: vertical;
+		}
+
+		.mod-link a {
+			text-decoration: none;
+		}
+
+		.mod-link .btn {
+			display: block;
+			width: 70%;
+			height: 40px;
+			line-height: 40px;
+			color: #FFF;
+			text-align: center;
+			border-radius: 4px;
+			color: #56a848;
+			border: 1px solid #56a848;
+			margin: 0 auto;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="wrapper">
+		<div class="content">
+			<h1>加入群聊，正在转跳·····</h1>
+
+
+			<script>
+				function changeurl(){
+var arr = new Array(
+"https://files.jiandaoyun.com/f977ac08-e613-4b22-92c6-b0817127d722?e=1649692799&token=bM7UwVPyBBdPaleBZt21SWKzMylqPUpn-05jZlas:Y7pUflZuoypyH3eJeePQ8Igsyxw=",
+"https://files.jiandaoyun.com/f977ac08-e613-4b22-92c6-b0817127d722?e=1649692799&token=bM7UwVPyBBdPaleBZt21SWKzMylqPUpn-05jZlas:Y7pUflZuoypyH3eJeePQ8Igsyxw=",
+
+);
+window.location.href = arr[Math.floor(Math.random() * arr.length)];
+}
+changeurl(); 
+			</script>
+
+
+
+</html>
